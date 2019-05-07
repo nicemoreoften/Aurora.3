@@ -22,7 +22,7 @@
 		"9" = /turf/space
 	)
 
-	has_space_ruins = TRUE
+	has_space_ruins = FALSE
 
 	station_name = "NSS Aurora"
 	station_short = "Aurora"
