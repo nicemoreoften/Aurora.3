@@ -221,7 +221,7 @@
 /area/shuttle/legion/centcom
 	name = "\improper Foreign Legion Shuttle"
 	flags = RAD_SHIELDED | SPAWN_ROOF
-	base_turf = /turf/simulated/floor/tiled/dark
+	base_turf = /turf/simulated/floor/reinforced
 	icon_state = "shuttlegrn"
 	centcomm_area = 1
 

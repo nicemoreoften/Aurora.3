@@ -6,6 +6,7 @@
 	no_light_control = 1
 	base_turf = /turf/space
 	requires_power = FALSE
+	dynamic_lighting = 0
 
 /area/derelict/hallway/northwest
 	name = "\improper NSS Aurora I"
